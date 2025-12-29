@@ -63,7 +63,8 @@ A Windows desktop application that automatically removes silent segments from vi
 
 ## Screenshot / 스크린샷
 
-![Video Mute Removal Tool Application / Video Mute Removal Tool 애플리케이션](images/screenshot.png)
+![Video Mute Removal Tool Application / Video Mute Removal Tool 애플리케이션](<img width="1182" height="1041" alt="2025-12-29 14 19 36" src="https://github.com/user-attachments/assets/040cd1e8-74ad-4d4c-8ed1-ddc5e9df333a" />
+)
 
 ## License / 라이선스
 
