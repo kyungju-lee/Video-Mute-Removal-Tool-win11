@@ -1,4 +1,4 @@
-# Silence Remover / 무음 제거 도구
+# Video Mute Removal Tool / 비디오 무음 제거 도구
 
 A Windows desktop application that automatically removes silent segments from video files.  
 비디오 파일에서 무음 구간을 자동으로 제거하는 Windows 데스크톱 애플리케이션입니다.
@@ -14,8 +14,8 @@ A Windows desktop application that automatically removes silent segments from vi
 
 ### For Windows Users / Windows 사용자
 
-1. Download the latest version from the [Releases page](https://github.com/kyungju-lee/Noise-Removal-Tool-win11/releases)
-   [릴리즈 페이지](https://github.com/kyungju-lee/Noise-Removal-Tool-win11/releases)에서 최신 버전을 다운로드하세요.
+1. Download the latest version from the [Releases page](https://github.com/kyungju-lee/Video-Mute-Removal-Tool/releases)
+   [릴리즈 페이지](https://github.com/kyungju-lee/Video-Mute-Removal-Tool/releases)에서 최신 버전을 다운로드하세요.
 
 2. Extract the `release/win-unpacked` folder
    `release/win-unpacked` 폴더를 압축 해제하세요.
@@ -63,7 +63,7 @@ A Windows desktop application that automatically removes silent segments from vi
 
 ## Screenshot / 스크린샷
 
-![Silence Remover Application / Silence Remover 애플리케이션](images/screenshot.png)
+![Video Mute Removal Tool Application / Video Mute Removal Tool 애플리케이션](images/screenshot.png)
 
 ## License / 라이선스
 
@@ -72,5 +72,5 @@ This project is licensed under the MIT License.
 
 ## Contributing / 기여
 
-Bug reports and feature suggestions are welcome via the [Issues](https://github.com/kyungju-lee/Noise-Removal-Tool-win11/issues) page.  
-버그 리포트나 기능 제안은 [Issues](https://github.com/kyungju-lee/Noise-Removal-Tool-win11/issues) 페이지를 통해 제출해주세요.
+Bug reports and feature suggestions are welcome via the [Issues](https://github.com/kyungju-lee/Video-Mute-Removal-Tool/issues) page.  
+버그 리포트나 기능 제안은 [Issues](https://github.com/kyungju-lee/Video-Mute-Removal-Tool/issues) 페이지를 통해 제출해주세요.
